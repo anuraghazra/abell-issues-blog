@@ -1,0 +1,21 @@
+{
+  "name": "abell-starter-minima",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "abell build",
+    "dev": "abell serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mkdirp": "^1.0.4",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "abell": "^0.3.2"
+  }
+}

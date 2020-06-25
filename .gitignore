@@ -1,0 +1,4 @@
+node_modules/
+content/
+dist/
+.debug
